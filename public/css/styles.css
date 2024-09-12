@@ -1,0 +1,13 @@
+.demo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  font-size: 30px;
+}
+
+.footer {
+  background-color: azure;
+  padding: 1em;
+  text-align: center;
+}
